@@ -2,6 +2,8 @@
 
 A simple terminal othello game for AIs
 
+Based on an earlier java project: [ThorLL/IAI_Othello](https://github.com/ThorLL/IAI_Othello)
+
 ## Notes
 - Only tested on mac
 
